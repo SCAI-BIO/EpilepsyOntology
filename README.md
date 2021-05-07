@@ -7,7 +7,7 @@ Repo for Epilepsy Ontology
 For questions please contact :
 
 - "Alpha Tom Kodamullil" <alpha.tom.kodamullil@scai.fraunhofer.de>
-- "astghik sargsyan" <astghik.sargsyan@scai.fraunhofer.de>
+- "Astghik Sargsyan" <astghik.sargsyan@scai.fraunhofer.de>
 - "Philipp Wegner" <philipp.wegner@scai.fraunhofer.de>
 
 
