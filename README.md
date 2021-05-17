@@ -3,16 +3,16 @@
 The objective of this project is to generate an Epilepsy Ontology for TextMining purpose.
 
 ## Development
-- src/ontology/modules
+- InputFiles
     - contains OntoFox input files
     - manually created
-- src/ontology/modules/
+- OutputModules
     - contains OntoFox output files
     - automatically generated
-- src/ontology/ClinicalTrialOntology.owl
+- EPO.owl
     - main devlopement file, imports module
     - manually created
-- src/ontology/catalog-v001.xml
+- catalog-v001.xml
      - otege catalog file that links IRIs from impored modules to relative file paths
      - manually created
 - EPO_merged.owl
