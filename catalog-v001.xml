@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/HP_module1.owl" uri="OutputModules/HP_module1.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/NCIT_module3.owl" uri="OutputModules/NCIT_module3.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/NCIT_module2.owl" uri="OutputModules/NCIT_module2.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/NCIT_module1.owl" uri="OutputModules/NCIT_module1.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/EFO_module2.owl" uri="OutputModules/EFO_module2.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/EFO_module1.owl" uri="OutputModules/EFO_module1.owl"/>
+    <uri id="Imports Wizard Entry" name="http://ontofox.hegroup.org/EFO_module1.owl" uri="OutputModules/EFO_module1.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/EFO_module1.owl" uri="OutputModules/EFO_module1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/EFO_module2.owl" uri="OutputModules/EFO_module2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/HP_module1.owl" uri="OutputModules/HP_module1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/NCIT_module1.owl" uri="OutputModules/NCIT_module1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/NCIT_module2.owl" uri="OutputModules/NCIT_module2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="http://ontofox.hegroup.org/NCIT_module3.owl" uri="OutputModules/NCIT_module3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="duplicate:https://bio.scai.fraunhofer.de/ontology/epilepsy" uri="EpilepsyOntology_Stage3_221020.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1613040344204" name="duplicate:https://bio.scai.fraunhofer.de/ontology/epilepsy" uri="EpilepsyOntology_TM.owl"/>
+    </group>
+</catalog>

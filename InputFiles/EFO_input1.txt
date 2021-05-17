@@ -1,0 +1,20 @@
+[URI of the OWL(RDF/XML) output file]
+
+
+[Source ontology]
+EFO
+
+[Low level source term URIs]
+http://www.ebi.ac.uk/efo/EFO_0004346 #neuroimaging measurement
+http://www.ebi.ac.uk/efo/EFO_0005210 #brain connectivity measurement
+
+[Top level source term URIs and target direct superclass URIs]
+
+
+[Source term retrieval setting]
+includeNoIntermediates
+
+[Source annotation URIs]
+
+
+[Source annotation URIs to be excluded]

@@ -1,17 +1,4 @@
-# Epilepsyontology
-Repo for Epilepsy Ontology
+# EpilepsyOntology_TM
 
-
-## Contact
-
-For questions please contact :
-
-- "Alpha Tom Kodamullil" <alpha.tom.kodamullil@scai.fraunhofer.de>
-- "Astghik Sargsyan" <astghik.sargsyan@scai.fraunhofer.de>
-- "Philipp Wegner" <philipp.wegner@scai.fraunhofer.de>
-
-
-
-## Issues
-
-For issues please use the issue system of this repository
+The objective of this project is to generate an Epilepsy Ontology for TextMining purpose  
+Source file: https://gitlab.scai.fraunhofer.de/CBM/epilepsy-ontology-building-16914/-/blob/EpilepsyOntology_Stage3_CBM/EpilepsyOntology_Stage3.owl
