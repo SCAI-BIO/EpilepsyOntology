@@ -15,6 +15,6 @@ The objective of this project is to generate an Epilepsy Ontology for TextMining
 - src/ontology/catalog-v001.xml
      - otege catalog file that links IRIs from impored modules to relative file paths
      - manually created
-- EPO_mergde.owl
+- EPO_merged.owl
     - most recent release (merged main devlopement file with all imported modules
     - automatically generated
