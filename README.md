@@ -18,3 +18,8 @@ The objective of this project is to generate an Epilepsy Ontology for TextMining
 - EPO_merged.owl
     - most recent release (merged main devlopement file with all imported modules
     - automatically generated
+
+## Contact 
+ - alpha.tom.kodamullil@scai.fraunhofer.de
+ - astghik.sargsyan@scai.fraunhofer.de
+ - philipp.wegner@scai.fraunhofer.de
