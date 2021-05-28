@@ -23,3 +23,5 @@ The objective of this project is to generate an Epilepsy Ontology for TextMining
  - alpha.tom.kodamullil@scai.fraunhofer.de
  - astghik.sargsyan@scai.fraunhofer.de
  - philipp.wegner@scai.fraunhofer.de
+## Maintanance 
+The Epilepsy Ontology will be maintained by Fraunhofer SCAI for at least 3 years from now on. 
