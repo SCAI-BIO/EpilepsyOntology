@@ -23,6 +23,7 @@
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#"
      xmlns:oboInOwl1="https://bio.scai.fraunhofer.de/ontology/epilepsy#oboInOwl:">
     <owl:Ontology rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsy">
+        <owl:versionIRI rdf:resource="https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl"/>
         <dc:contributor>Johannes Darms (zbmed)</dc:contributor>
         <dc:contributor>Philipp Wegener (Fraunhofer SCAI)</dc:contributor>
         <dc:contributor>Satya S. Sahoo (case.edu)</dc:contributor>
@@ -46335,13 +46336,13 @@ Psychiatric symptoms</owl:annotatedTarget>
         <metadata:treeView rdf:resource="http://purl.obolibrary.org/obo/snap_Disposition"/>
         <oboInOwl1:hasDbXRef>https://www.ncbi.nlm.nih.gov/pubmed/25856437</oboInOwl1:hasDbXRef>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/idomal.owl"/>
-        <obo:IAO_0000115>The disposition of a plant or its parts to be used to cure disease or relieve pain.</obo:IAO_0000115>
         <oboInOwl:creation_date>2012-02-24T12:05:43Z</oboInOwl:creation_date>
+        <obo:IAO_0000115>The disposition of a plant or its parts to be used to cure disease or relieve pain.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>idomal_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id>IDOMAL:6000062</oboInOwl:id>
         <fromPubMed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromPubMed>
-        <oboInOwl:created_by>louis</oboInOwl:created_by>
         <skos:notation>IDOMAL:6000062</skos:notation>
+        <oboInOwl:created_by>louis</oboInOwl:created_by>
     </rdf:Description>
     <rdf:Description rdf:about="https://bio.scai.fraunhofer.de/ontology/ontologies/2019/0/Merged1#LA_Left_arm_inner_wrist">
         <rdfs:label>lead site I</rdfs:label>
