@@ -38199,20 +38199,6 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     
 
 
-    <!-- https://bio.scai.fraunhofer.de/ontology/c2a4206e_62d4_4989_a268_e65941c4f9f1 -->
-
-    <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/c2a4206e_62d4_4989_a268_e65941c4f9f1">
-        <owl:equivalentClass>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1826"/>
-            </owl:Restriction>
-        </owl:equivalentClass>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">brain connectivity TM_BIN</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- https://bio.scai.fraunhofer.de/ontology/epilepsyZung_self-rating_anxiety_scale -->
 
     <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsyZung_self-rating_anxiety_scale">
@@ -38581,21 +38567,6 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/0000516">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49936"/>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">multi-contact electrode</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://bio.scai.fraunhofer.de/ontology/78410c86_1712_44d7_afa8_13069d737e15 -->
-
-    <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/78410c86_1712_44d7_afa8_13069d737e15">
-        <owl:equivalentClass>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1826"/>
-            </owl:Restriction>
-        </owl:equivalentClass>
-        <dc:description>The &apos;epilepsy classification TM_BIN&apos; concept enables a compilation of diverse concepts that are related to classificactions in Epilepsy via the Axiome &apos;isClassificationFor some epilepsy&apos;.  Thus enables the adaptation of the ontology for text mining purposes for Epilepsy related information retrieval and information extraction.</dc:description>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">epilepsy classification TM_BIN</rdfs:label>
     </owl:Class>
     
 
@@ -46235,6 +46206,35 @@ Psychiatric symptoms</owl:annotatedTarget>
         <owl:annotatedTarget>Focal cognitive seizures are seen, followed by a feeling of inability to move which may spread sequentially through body parts in a Jacksonian march (ictal paralysis), this may be followed by clonic jerking in affected body parts.</owl:annotatedTarget>
         <rdfs:isDefinedBy>https://www.epilepsydiagnosis.org/seizure/parietal-overview.html</rdfs:isDefinedBy>
     </owl:Axiom>
+    
+
+
+    <!-- https://bio.scai.fraunhofer.de/ontology/epilepsy/brain_connectivity_TM_BIN -->
+
+    <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsy/brain_connectivity_TM_BIN">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1826"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Brain connectivity TM_BIN</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://bio.scai.fraunhofer.de/ontology/epilepsy/epilepsy_classification_TM_BIN -->
+
+    <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsy/epilepsy_classification_TM_BIN">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/DOID_1826"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <dc:description>The &apos;epilepsy classification TM_BIN&apos; concept enables a compilation of diverse concepts that are related to classificactions in Epilepsy via the Axiome &apos;isClassificationFor some epilepsy&apos;.  Thus enables the adaptation of the ontology for text mining purposes for Epilepsy related information retrieval and information extraction.</dc:description>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">epilepsy classification TM_BIN</rdfs:label>
+    </owl:Class>
     
 
 
