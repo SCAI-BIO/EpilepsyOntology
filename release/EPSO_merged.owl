@@ -104,8 +104,8 @@ under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111">
-        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">editor preferred label</obo:IAO_0000111>
-        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">editor preferred term</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">editor preferred label</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">editor preferred term</obo:IAO_0000111>
         <obo:IAO_0000111>editor preferred term~editor preferred label</obo:IAO_0000111>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">编辑首选术语</obo:IAO_0000111>
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">编辑首选标签</obo:IAO_0000111>
@@ -115,11 +115,11 @@ under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">PERSON:Daniel Schober</obo:IAO_0000117>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">editor preferred label</rdfs:label>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">editor preferred term</rdfs:label>
-        <rdfs:label>editor preferred term~editor preferred label</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">editor preferred label</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">editor preferred term</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">editor preferred term~editor preferred label</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">编辑首选术语</rdfs:label>
-        <rdfs:label>编辑首选术语~编辑首选标签</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">编辑首选术语~编辑首选标签</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">编辑首选标签</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -145,14 +145,13 @@ under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114">
         <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">has curation status</obo:IAO_0000111>
-        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">有管理状态</obo:IAO_0000111>
+        <obo:IAO_0000111 rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">有管理状态</obo:IAO_0000111>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">PERSON:Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">PERSON:Bill Bug</obo:IAO_0000117>
         <obo:IAO_0000117 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">PERSON:Melanie Courtot</obo:IAO_0000117>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">OBI_0000281</obo:IAO_0000119>
         <rdfs:label xml:lang="en">has curation status</rdfs:label>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">has curation status</rdfs:label>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">有管理状态</rdfs:label>
+        <rdfs:label xml:lang="cn">有管理状态</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -167,7 +166,9 @@ under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
         <obo:IAO_0000115>A property representing the English language definitions of what NCI means by the concept. They may also include information about the definition&apos;s source and attribution in a form that can easily be interpreted by software.</obo:IAO_0000115>
         <obo:IAO_0000115>English language definitions of what NCI means by the concept. These are limited to 1024 characters. They may also include information about the definition&apos;s source and attribution in a form that can easily be interpreted by software.</obo:IAO_0000115>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">OBI的官方定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">官方的定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。</obo:IAO_0000115>
         <obo:IAO_0000116 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">2012-04-05: 
@@ -214,6 +215,7 @@ We also have the outstanding issue of how to aim different definitions to differ
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <oboInOwl:hasExactSynonym>DEFINITION</oboInOwl:hasExactSynonym>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:label xml:lang="en">definition</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">definition</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">textual definition</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">定义</rdfs:label>
@@ -304,7 +306,7 @@ We also have the outstanding issue of how to aim different definitions to differ
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <obo:IAO_0000119 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">论OBO-讨论邮件-列表，请参阅http://bit.ly/hgm99w</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">definition source</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">definition source</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">定义来源</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -1155,6 +1157,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref">
         <obo:IAO_0000115>A property representing a reference to an identical or very similar object in another database.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reference database or publication source.</obo:IAO_0000115>
         <obo:NCIT_P106>Conceptual Entity</obo:NCIT_P106>
         <obo:NCIT_P108>xRef</obo:NCIT_P108>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">database_cross_reference</rdfs:label>
@@ -1195,8 +1198,10 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
     <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name space of the ontology.</obo:IAO_0000115>
         <rdfs:comment>disease_ontology</rdfs:comment>
-        <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">has_obo_namespace</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">has_obo_namespace</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_obo_namespace</rdfs:label>
         <rdfs:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">有_obo_命名空间</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -1214,6 +1219,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
     <!-- http://www.geneontology.org/formats/oboInOwl#id -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An identifier is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity.</obo:IAO_0000115>
         <rdfs:label>id</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -1223,6 +1229,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
         <obo:IAO_0000115>An association that connects the concept defining a particular terminology subset with concepts that belong to this subset.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In subset.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym>Concept_In_Subset</oboInOwl:hasExactSynonym>
         <rdfs:label>in subset</rdfs:label>
         <rdfs:label>in_subset</rdfs:label>
@@ -1264,13 +1271,19 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
 
     <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
 
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comment.</obo:IAO_0000115>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comment</rdfs:label>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
 
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is defined by.</obo:IAO_0000115>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rdfs:isDefinedBy</rdfs:label>
+    </owl:AnnotationProperty>
     
 
 
@@ -1278,6 +1291,8 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
 
     <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
         <obo:IAO_0000111>label</obo:IAO_0000111>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A human readable name for this class.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">label</rdfs:label>
         <rdfs:label>label</rdfs:label>
         <rdfs:label>标签</rdfs:label>
     </owl:AnnotationProperty>
@@ -5119,7 +5134,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
     <!-- http://purl.obolibrary.org/obo/DOID_0014667 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_0014667">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that involving errors in metabolic processes of building or degradation of molecules.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasDbXref>ICD10CM:E88.9</oboInOwl:hasDbXref>
@@ -5160,7 +5175,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
     <!-- http://purl.obolibrary.org/obo/DOID_0050117 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_0050117">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/0000401"/>
@@ -6566,7 +6581,7 @@ OMIM mapping confirmed by DO. [SN].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_0080015 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_0080015">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that has_material_basis_in a genetic abnormality, error with embryonic development, infection or compromised intrauterine environment.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
@@ -8091,7 +8106,7 @@ OMIM mapping submitted by NeuroDevNet. [LS].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_14566 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_14566">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that is characterized by abnormally rapid cell division.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasAlternativeId>DOID:0000818</oboInOwl:hasAlternativeId>
@@ -8108,7 +8123,7 @@ OMIM mapping submitted by NeuroDevNet. [LS].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_150 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_150">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that involves a psychological or behavioral pattern generally associated with subjective distress or disability that occurs in an individual, and which are not a part of normal development or culture.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasDbXref>ICD10CM:F99</oboInOwl:hasDbXref>
@@ -8868,7 +8883,7 @@ OMIM mapping confirmed by DO. [SN].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_225 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_225">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease characterized by a group of signs and symptoms that occur together and characterize a particular abnormality.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasDbXref>MESH:D013577</oboInOwl:hasDbXref>
@@ -10183,6 +10198,25 @@ OMIM mapping confirmed by DO. [SN].</rdfs:comment>
     
 
 
+    <!-- http://purl.obolibrary.org/obo/DOID_4 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_4">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A disease is a disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MESH:D004194</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCI:C2991</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT_US_2020_09_01:64572001</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS_CUI:C0012634</oboInOwl:hasDbXref>
+        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease_ontology</oboInOwl:hasOBONamespace>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:4</oboInOwl:id>
+        <oboInOwl:inSubset rdf:resource="http://purl.oboInOwllibrary.org/oboInOwl/doid#DO_RAD_slim"/>
+        <oboInOwl:inSubset rdf:resource="http://purl.oboInOwllibrary.org/oboInOwl/doid#NCIthesaurus"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/DOID_409 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_409">
@@ -11066,7 +11100,7 @@ OMIM mapping confirmed by DO. [SN].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_630 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_630">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that has_material_basis_in genetic variations in the human genome.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasDbXref>MESH:D030342</oboInOwl:hasDbXref>
@@ -11325,7 +11359,7 @@ OMIM mapping confirmed by DO. [SN].</rdfs:comment>
     <!-- http://purl.obolibrary.org/obo/DOID_7 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_7">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>A disease that manifests in a defined anatomical structure.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
         <oboInOwl:hasAlternativeId>DOID:1</oboInOwl:hasAlternativeId>
@@ -19948,7 +19982,7 @@ which the relevant part of the environment is thereby represented to the organis
     <!-- http://purl.obolibrary.org/obo/MONDO_0000839 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/MONDO_0000839">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>Any abnormality, anatomical or biochemical, evident at birth or during the neonatal period.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/mondo.owl"/>
         <oboInOwl:hasDbXRef>https://www.ncbi.nlm.nih.gov/pubmed/25777785</oboInOwl:hasDbXRef>
@@ -27209,7 +27243,7 @@ There are three stages to the illness i) an initial prodromal phase with infrequ
     <!-- http://purl.obolibrary.org/obo/NCIT_C2959 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2959">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <obo:IAO_0000115>Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncit.owl"/>
         <obo:NCIT_NHC0>C2959</obo:NCIT_NHC0>
@@ -28916,22 +28950,6 @@ In the examples above, a reagent is an operational component of a device, but th
         <rdfs:label>vital sign</rdfs:label>
         <rdfs:seeAlso>http://www.semanticweb.org/rjyy/ontologies/2015/5/ESSO#Vital_Sign</rdfs:seeAlso>
         <fromESSO rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromESSO>
-    </owl:Class>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/OGMS_0000031 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OGMS_0000031">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000016"/>
-        <obo:IAO_0000111>disease</obo:IAO_0000111>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.</obo:IAO_0000115>
-        <obo:IAO_0000117>Albert Goldfain</obo:IAO_0000117>
-        <obo:IAO_0000119>http://ontology.buffalo.edu/medo/Disease_and_Diagnosis.pdf</obo:IAO_0000119>
-        <obo:IAO_0000232>creation date: 2009-06-23T11:21:20Z</obo:IAO_0000232>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ogms.owl"/>
-        <rdfs:label>disease</rdfs:label>
     </owl:Class>
     
 
@@ -39180,7 +39198,7 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     <!-- https://bio.scai.fraunhofer.de/ontology/epilepsy#autoimmune_epilepsy -->
 
     <owl:Class rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsy#autoimmune_epilepsy">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000031"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/DOID_4"/>
         <oboInOwl:hasDefinition>The autoimmune epilepsies are immunologically mediated disorders in which recurrent seizures are a primary and persistent clinical feature. Autoimmune epilepsy are characterized by seizures  which are a common manifestation of autoimmune limbic encephalitis and multifocal paraneoplastic disorders</oboInOwl:hasDefinition>
         <rdfs:label>autoimmune epilepsy</rdfs:label>
         <fromPubMed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromPubMed>
@@ -46322,8 +46340,8 @@ Psychiatric symptoms</owl:annotatedTarget>
         <oboInOwl:hasOBONamespace>idomal_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id>IDOMAL:6000062</oboInOwl:id>
         <fromPubMed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromPubMed>
-        <skos:notation>IDOMAL:6000062</skos:notation>
         <oboInOwl:created_by>louis</oboInOwl:created_by>
+        <skos:notation>IDOMAL:6000062</skos:notation>
     </rdf:Description>
     <rdf:Description rdf:about="https://bio.scai.fraunhofer.de/ontology/ontologies/2019/0/Merged1#LA_Left_arm_inner_wrist">
         <rdfs:label>lead site I</rdfs:label>
