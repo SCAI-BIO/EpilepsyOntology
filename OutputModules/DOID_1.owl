@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://ontofox.hegroup.org/b0dhe8g5.owl#"
      xml:base="http://ontofox.hegroup.org/b0dhe8g5.owl"
-     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
-     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:obo="http://purl.obolibrary.org/obo/">
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://ontofox.hegroup.org/b0dhe8g5.owl"/>
     
 
@@ -19,56 +20,100 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">has_obo_namespace</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Name space of the ontology.</obo:IAO_0000115>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease_ontology</rdfs:comment>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rdfs:isDefinedBy</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is defined by.</obo:IAO_0000115>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
-        <rdfs:label xml:lang="en">imported from</rdfs:label>
-    </owl:AnnotationProperty>
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
-        <rdfs:label xml:lang="en">definition</rdfs:label>
         <obo:IAO_0000115 xml:lang="en">The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
         <obo:IAO_0000115 xml:lang="en">The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.</obo:IAO_0000115>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref">
-        <rdfs:label>database_cross_reference</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reference database or publication source.</obo:IAO_0000115>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
-        <rdfs:label xml:lang="en">label</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A human readable name for this class.</obo:IAO_0000115>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">in_subset</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In subset.</obo:IAO_0000115>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">id</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An identifier is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity.</obo:IAO_0000115>
-    </owl:AnnotationProperty>
-    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">comment</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comment.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">definition</rdfs:label>
+        <rdfs:label>definition</rdfs:label>
     </owl:AnnotationProperty>
     
 
 
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
-    //
-    // Datatypes
-    //
-    ///////////////////////////////////////////////////////////////////////////////////////
-     -->
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
 
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
+        <rdfs:label xml:lang="en">imported from</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref">
+        <obo:IAO_0000115>Reference database or publication source.</obo:IAO_0000115>
+        <rdfs:label>database_cross_reference</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
+        <obo:IAO_0000115>Name space of the ontology.</obo:IAO_0000115>
+        <rdfs:comment>disease_ontology</rdfs:comment>
+        <rdfs:label>has_obo_namespace</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id">
+        <obo:IAO_0000115>An identifier is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity.</obo:IAO_0000115>
+        <rdfs:label>id</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
+        <obo:IAO_0000115>In subset.</obo:IAO_0000115>
+        <rdfs:label>in_subset</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
+        <obo:IAO_0000115>Comment.</obo:IAO_0000115>
+        <rdfs:label>comment</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#isDefinedBy -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
+        <obo:IAO_0000115>Is defined by.</obo:IAO_0000115>
+        <rdfs:label>rdfs:isDefinedBy</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <obo:IAO_0000115>A human readable name for this class.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">label</rdfs:label>
+    </owl:AnnotationProperty>
     
 
 
@@ -80,27 +125,30 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+
     
 
 
     <!-- http://purl.obolibrary.org/obo/DOID_4 -->
 
+
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/DOID_4">
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease</rdfs:label>
-        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A disease is a disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.</obo:IAO_0000115>
-        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:4</oboInOwl:id>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MESH:D004194</oboInOwl:hasDbXref>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCI:C2991</oboInOwl:hasDbXref>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT_US_2020_09_01:64572001</oboInOwl:hasDbXref>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS_CUI:C0012634</oboInOwl:hasDbXref>
-        <oboInOwl:hasOBONamespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease_ontology</oboInOwl:hasOBONamespace>
+        <obo:IAO_0000115>A disease is a disposition (i) to undergo pathological processes that (ii) exists in an organism because of one or more disorders in that organism.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
+        <oboInOwl:hasDbXref>MESH:D004194</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>NCI:C2991</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>SNOMEDCT_US_2020_09_01:64572001</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>UMLS_CUI:C0012634</oboInOwl:hasDbXref>
+        <oboInOwl:hasOBONamespace>disease_ontology</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>DOID:4</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.oboInOwllibrary.org/oboInOwl/doid#DO_RAD_slim"/>
         <oboInOwl:inSubset rdf:resource="http://purl.oboInOwllibrary.org/oboInOwl/doid#NCIthesaurus"/>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/doid.owl"/>
+        <rdfs:label>disease</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 1.3.5.1016) http://owlapi.sourceforge.net -->
+<!-- Generated by the OWL API (version 5.1.4) https://github.com/owlcs/owlapi/ -->
+
 
