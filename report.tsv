@@ -7,83 +7,6 @@ ERROR	duplicate_definition	UBERON:0006473	IAO:0000115	.
 ERROR	duplicate_definition	UBERON:0006480	IAO:0000115	.
 ERROR	duplicate_definition	UBERON:0013540	IAO:0000115	.
 ERROR	duplicate_definition	UBERON:0013559	IAO:0000115	.
-ERROR	missing_label	HP:0020219	rdfs:label	
-ERROR	missing_label	NCIT:C116454	rdfs:label	
-ERROR	missing_label	NCIT:C17429	rdfs:label	
-ERROR	missing_label	NCIT:C49936	rdfs:label	
-ERROR	missing_label	NCIT:C61377	rdfs:label	
-ERROR	missing_label	NCIT:C9487	rdfs:label	
-ERROR	missing_label	http://www.ebi.ac.uk/efo/EFO_0004346	rdfs:label	
-ERROR	missing_label	http://www.ebi.ac.uk/efo/EFO_0005210	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#HasPolarity	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAge	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAmplitude	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAnatomy	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDemographic	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDevelopmentalHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDistribution	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDuration	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEEGProperty	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEEGResult	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEpidemiology	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasFamilyHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasForm	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasFrequency	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasGene	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasIctalRelationship	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasLaboratoryFinding	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasLocation	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasMedicalHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasObserver	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOccurrence	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOnset	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOrientation	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasPhysicalExam	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasQuantity	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasRhythm	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSeizureProperty	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSex	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSign	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSocialHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSocioDemographic	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSurgicalHistory	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSymptom	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasTestResult	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAgeOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAmplitudeOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAnatomyOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDemographicOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDevelopmentalHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDistributionOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDurationOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isEEGPropertyOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isEEGResultOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFamilyHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFormOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFrequencyOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isIctalRelationshipOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isLocationOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isMedicalHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOccurrenceOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOnsetOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOrientationOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isPhysicalExamOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isPolarityOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isQuantityOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isRhythmOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSeizurePropertyOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSexOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSignOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSocialHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSocioDemographicOF	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSurgicalHistoryOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSymptomOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isTestResultOf	rdfs:label	
-ERROR	missing_label	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isaLaboratoryFindingOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#HasPolarity	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#associatedWith	rdfs:label	
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromArticle	rdfs:label	
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromEPILONT	rdfs:label	
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromESSO	rdfs:label	
@@ -91,85 +14,72 @@ ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromEpSO	rd
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromILAE	rdfs:label	
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromNCBIBook	rdfs:label	
 ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#fromPubMed	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAge	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAmplitude	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAnatomy	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDemographic	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDevelopmentalHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDistribution	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDuration	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEEGProperty	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEEGResult	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEpidemiology	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasFamilyHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasForm	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasFrequency	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasGene	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasIctalRelationship	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasLaboratoryFinding	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasLocation	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasMedicalHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasObserver	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOccurrence	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOnset	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOrientation	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasPhysicalExam	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasQuantity	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasRhythm	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSeizureProperty	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSex	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSign	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSocialHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSocioDemographic	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSurgicalHistory	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSymptom	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasTestResult	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAGeneOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAgeOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAmplitudeOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAnatomyOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDemographicOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDevelopmentalHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDistributionOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDurationOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isEEGPropertyOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isEEGResultOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFamilyHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFormOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFrequencyOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isIctalRelationshipOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isLocationOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isMedicalHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOccurrenceOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOnsetOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOrientationOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isPhysicalExamOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isPolarityOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isQuantityOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isRhythmOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSeizurePropertyOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSexOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSignOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSocialHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSocioDemographicOF	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSurgicalHistoryOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSymptomOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isTestResultOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#isaLaboratoryFindingOf	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#refersTo	rdfs:label	
-ERROR	missing_label	https://bio.scai.fraunhofer.de/ontology/epilepsy#seeAlso	rdfs:label	
-ERROR	duplicate_label	https://bio.scai.fraunhofer.de/ontology/0000406	rdfs:label	<isImitatorFor^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
-ERROR	duplicate_label	https://bio.scai.fraunhofer.de/ontology/0000410	rdfs:label	<isImitatorFor^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+ERROR	multiple_definitions	BFO:0000015	IAO:0000115	An occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t.
+ERROR	multiple_definitions	BFO:0000015	IAO:0000115	<p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])>
+ERROR	multiple_definitions	BFO:0000020	IAO:0000115	A continuant that inheres in or is borne by other entities. Every instance of A requires some specific instance of B which must always be the same.
+ERROR	multiple_definitions	BFO:0000020	IAO:0000115	<b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])>
+ERROR	multiple_definitions	IAO:0000030	IAO:0000115	A generically dependent continuant that is about some thing.
+ERROR	multiple_definitions	IAO:0000030	IAO:0000115	An information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+ERROR	multiple_definitions	IAO:0000111	IAO:0000115	The concise, meaningful, and human-friendly name for a class or property preferred by the ontology developers. (US-English)
+ERROR	multiple_definitions	IAO:0000111	IAO:0000115	对于一类或属性的简洁的、有意义的、与人类友好的名称由本体开发商首选。 （美国英语）
+ERROR	multiple_definitions	IAO:0000112	IAO:0000115	A phrase describing how a class name should be used. May also include other kinds of examples that facilitate immediate understanding of a class semantics, such as widely known prototypical subclasses or instances of the class. Although essential for high level terms, examples for low level terms (e.g., Affymetrix HU133 array) are not
+ERROR	multiple_definitions	IAO:0000112	IAO:0000115	A phrase describing how a term should be used and/or a citation to a work which uses it. May also include other kinds of examples that facilitate immediate understanding, such as widely know prototypes or instances of a class, or cases where a relation is said to hold.
 ERROR	multiple_definitions	IAO:0000115	IAO:0000115	A property representing the English language definitions of what NCI means by the concept. They may also include information about the definition's source and attribution in a form that can easily be interpreted by software.
 ERROR	multiple_definitions	IAO:0000115	IAO:0000115	English language definitions of what NCI means by the concept. These are limited to 1024 characters. They may also include information about the definition's source and attribution in a form that can easily be interpreted by software.
-ERROR	multiple_labels	IAO:0000111	rdfs:label	editor preferred term~editor preferred label
-ERROR	multiple_labels	IAO:0000111	rdfs:label	编辑首选术语~编辑首选标签
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	OBI的官方定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.@en
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.@en
+ERROR	multiple_definitions	IAO:0000115	IAO:0000115	官方的定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。
+ERROR	multiple_definitions	IAO:0000116	IAO:0000115	An administrative note intended for its editor. It may not be included in the publication version of the ontology, so it should contain nothing necessary for end users to understand the ontology.
+ERROR	multiple_definitions	IAO:0000116	IAO:0000115	管理者注释用于其编辑器。它可能不包含在本体的出版版本中，所以它应该不包含最终用户了解本体所需的信息。
+ERROR	multiple_definitions	IAO:0000117	IAO:0000115	Name of editor entering the definition in the file. The definition editor is a point of contact for information regarding the term. The definition editor may be, but is not always, the author of the definition, which may have been worked upon by several people
+ERROR	multiple_definitions	IAO:0000117	IAO:0000115	Name of editor entering the term in the file. The term editor is a point of contact for information regarding the term. The term editor may be, but is not always, the author of the definition, which may have been worked upon by several people
+ERROR	multiple_definitions	IAO:0000117	IAO:0000115	输入文件中术语编辑者的名称。术语编辑者是有关术语的信息交汇点。术语编辑者可以是，但并不总是，定义的作者，这可能是由几个人完成
+ERROR	multiple_definitions	IAO:0000119	IAO:0000115	<formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007>
+ERROR	multiple_definitions	IAO:0000119	IAO:0000115	正式引用，例如在外部数据库中的标识符，用于表示/定义的属性源（S）。自由文本表示/为定义属性源（S）。实例：在2007年1月31日的作者姓名，URI，MeSH术语C04，PUBMEDID，维基uri
+ERROR	multiple_definitions	IAO:0000412	IAO:0000115	For external terms/classes, the ontology from which the term was imported
+ERROR	multiple_definitions	IAO:0000412	IAO:0000115	外部术语/类，术语引入的本体
+ERROR	multiple_definitions	OBI:0000070	IAO:0000115	A planned process with the objective to produce information about some evaluant
+ERROR	multiple_definitions	OBI:0000070	IAO:0000115	A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.
+ERROR	multiple_definitions	oboInOwl:hasDbXref	IAO:0000115	A property representing a reference to an identical or very similar object in another database.
+ERROR	multiple_definitions	oboInOwl:hasDbXref	IAO:0000115	Reference database or publication source.
+ERROR	multiple_definitions	oboInOwl:hasExactSynonym	IAO:0000115	A property representing a fully qualified synonym, contains the string, term type, source, and an optional source code if appropriate. Each subfield is deliniated to facilitate interpretation by software.
+ERROR	multiple_definitions	oboInOwl:hasExactSynonym	IAO:0000115	An alternative label for a given entity such as a commonly used abbreviation or synonym. 
+ERROR	multiple_definitions	oboInOwl:inSubset	IAO:0000115	An association that connects the concept defining a particular terminology subset with concepts that belong to this subset.
+ERROR	multiple_definitions	oboInOwl:inSubset	IAO:0000115	In subset.
+ERROR	multiple_labels	CLO:0037199	rdfs:label	mouse DBA/2 inbred strain
+ERROR	multiple_labels	CLO:0037199	rdfs:label	小鼠DBA/2近交系
+ERROR	multiple_labels	IAO:0000111	rdfs:label	编辑首选术语
+ERROR	multiple_labels	IAO:0000111	rdfs:label	编辑首选标签
+ERROR	multiple_labels	IAO:0000115	rdfs:label	definition
+ERROR	multiple_labels	IAO:0000115	rdfs:label	definition@en
+ERROR	multiple_labels	IAO:0000115	rdfs:label	textual definition
+ERROR	multiple_labels	IAO:0000115	rdfs:label	定义
+ERROR	multiple_labels	IAO:0000115	rdfs:label	文本定义
+ERROR	multiple_labels	IAO:0000116	rdfs:label	editor note
+ERROR	multiple_labels	IAO:0000116	rdfs:label	编者注
+ERROR	multiple_labels	IAO:0000117	rdfs:label	definition editor
+ERROR	multiple_labels	IAO:0000117	rdfs:label	term editor
+ERROR	multiple_labels	IAO:0000117	rdfs:label	术语编辑者
+ERROR	multiple_labels	IAO:0000232	rdfs:label	curator note
+ERROR	multiple_labels	IAO:0000232	rdfs:label	curator notes
+ERROR	multiple_labels	IAO:0000412	rdfs:label	imported from
+ERROR	multiple_labels	IAO:0000412	rdfs:label	imported from@en
+ERROR	multiple_labels	IAO:0000412	rdfs:label	引自
+ERROR	multiple_labels	NCIT:P366	rdfs:label	Legacy Concept Name
+ERROR	multiple_labels	NCIT:P366	rdfs:label	Legacy_Concept_Name
 ERROR	multiple_labels	RO:0002604	rdfs:label	is opposite of
 ERROR	multiple_labels	RO:0002604	rdfs:label	is_opposite_of
+ERROR	multiple_labels	oboInOwl:hasDbXref	rdfs:label	database_cross_reference
+ERROR	multiple_labels	oboInOwl:hasDbXref	rdfs:label	xRef
+ERROR	multiple_labels	oboInOwl:hasDbXref	rdfs:label	数据库_交叉_引用
+ERROR	multiple_labels	oboInOwl:hasExactSynonym	rdfs:label	alternative_term
 ERROR	multiple_labels	oboInOwl:hasExactSynonym	rdfs:label	has exact synonym
 ERROR	multiple_labels	oboInOwl:hasExactSynonym	rdfs:label	has_exact_synonym
+ERROR	multiple_labels	oboInOwl:hasOBONamespace	rdfs:label	has_obo_namespace
+ERROR	multiple_labels	oboInOwl:hasOBONamespace	rdfs:label	有_obo_命名空间
 ERROR	multiple_labels	oboInOwl:hasRelatedSynonym	rdfs:label	has_related_synonym
 ERROR	multiple_labels	oboInOwl:hasRelatedSynonym	rdfs:label	<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym>
 ERROR	multiple_labels	oboInOwl:inSubset	rdfs:label	in subset
@@ -228,8 +138,8 @@ WARN	annotation_whitespace	ERO:0001071	IAO:0000118	CSF collection
 WARN	annotation_whitespace	ERO:0001071	IAO:0000118	Cerebrospinal fluid collection 
 WARN	annotation_whitespace	ERO:0001764	IAO:0000115	A physiological assay used in the study of sleep and as a diagnostic tool in sleep medicine. 
 WARN	annotation_whitespace	ERO:0002178	IAO:0000115	A magnetic resonance imaging technique that measures brain activity by detecting associated changes in blood flow. The procedure is similar to MRI but uses the change in magnetization between oxygen-rich and oxygen-poor blood as its basic measure. 
-WARN	annotation_whitespace	IAO:0000115	IAO:0000116	<2012-04-05: Barry SmithOBI的官方定义解释了一个类或属性的含义：'应该是亚里士多德式的，形式化和规范化的。可以用口语定义'是糟糕的。您能解决这样的问题吗？解释关于类或属性的表达含义的必要和充分条件的陈述。Alan Ruttenberg您提出的定义是一个合理的备选，除非它很常见，没有给出必要和充分的条件。大多数情况下它们是必要的，偶尔是必要的，充分的或者仅仅仅充分的。它们通常使用不是自己定义的术语，因此它们实际上不能通过这些标准进行评估。关于拟议定义的具体内容：我们没有“含义”，或“表达”或“属性”的定义。对于在预期意义上的“参考”，我认为我们使用术语“指示”。对于'表达'，我认为我们和你的意思是符号，或标识符。对于“含义”，它不同于类和属性。对于类，我们希望文档能够让读者确定一个实体是否是该类的实例。对于属性，让我们的目标读者决定，给定一对潜在的关系，判断关系成立的断言正确与否。 “目标读者”部分表明我们也指定了我们期望的能够理解定义的人，并且概括了人类和计算机读者以包含文本和逻辑定义。就我个人而言，我更愿意削弱对文档的定义，并指出什么是可取的。我们还有一个悬而未决的问题，就是如何针对不同的受众定位不同的定义。临床读者阅读chebi需要来自受过化学训练的受众的不同类型的定义文档/定义，同样需要一个适合本体工作者的定义。 ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
-WARN	annotation_whitespace	IAO:0000115	IAO:0000116	<2012-04-05: Barry SmithThe official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions' is terrible.Can you fix to something like:A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.Alan RuttenbergYour proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria. On the specifics of the proposed definition:We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition. Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable. We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with. ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	annotation_whitespace	IAO:0000115	IAO:0000116	<2012-04-05: Barry SmithOBI的官方定义解释了一个类或属性的含义：'应该是亚里士多德式的，形式化和规范化的。可以用口语定义'是糟糕的。您能解决这样的问题吗？解释关于类或属性的表达含义的必要和充分条件的陈述。Alan Ruttenberg您提出的定义是一个合理的备选，除非它很常见，没有给出必要和充分的条件。大多数情况下它们是必要的，偶尔是必要的，充分的或者仅仅仅充分的。它们通常使用不是自己定义的术语，因此它们实际上不能通过这些标准进行评估。关于拟议定义的具体内容：我们没有“含义”，或“表达”或“属性”的定义。对于在预期意义上的“参考”，我认为我们使用术语“指示”。对于'表达'，我认为我们和你的意思是符号，或标识符。对于“含义”，它不同于类和属性。对于类，我们希望文档能够让读者确定一个实体是否是该类的实例。对于属性，让我们的目标读者决定，给定一对潜在的关系，判断关系成立的断言正确与否。 “目标读者”部分表明我们也指定了我们期望的能够理解定义的人，并且概括了人类和计算机读者以包含文本和逻辑定义。就我个人而言，我更愿意削弱对文档的定义，并指出什么是可取的。我们还有一个悬而未决的问题，就是如何针对不同的受众定位不同的定义。临床读者阅读chebi需要来自受过化学训练的受众的不同类型的定义文档/定义，同样需要一个适合本体工作者的定义。 >
+WARN	annotation_whitespace	IAO:0000115	IAO:0000116	<2012-04-05: Barry SmithThe official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions' is terrible.Can you fix to something like:A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.Alan RuttenbergYour proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria. On the specifics of the proposed definition:We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition. Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable. We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with. >
 WARN	annotation_whitespace	MFOEM:000009	IAO:0000115	<Anger is a negative emotion, characterised by feelings of unpleasantness and high arousal, in the form of antagonistic feelings and action tendencies. [Source: OCEAS]>
 WARN	annotation_whitespace	MFOEM:000195	IAO:0000115	An affective process is any process that has positive or negative valence. 
 WARN	annotation_whitespace	MFOMD:0000101	IAO:0000115	"
@@ -250,9 +160,7 @@ The disturbance may be sudden or gradual, transient or chronic.
 DSM-IV-TR (american Psychiatric Association)"
 WARN	annotation_whitespace	MFOMD:0000188	IAO:0000115	<Feeling of emotional and mental discomfort as a symptom of discontentment, restlessness, dissatisfaction, malaise, depression, anxiety or indifference.http://en.wikipedia.org/wiki/Dysphoria >
 WARN	annotation_whitespace	MFOMD:0000211	rdfs:comment	<Specific thought disorders include derailment, poverty of speech, tangentiality, illogicality, perseveration, neologism, and thought blocking.http://en.wikipedia.org/wiki/Thought_disorder>
-WARN	annotation_whitespace	MF:0000008	rdfs:seeAlso	<http://purl.obolibrary.org/obo/GO_0050890, cognition, defined as `The operation of the mind by which an organism becomes aware of objects of thought or perception; it includes the mental activities associated with thinking, learning, and memory.' >
 WARN	annotation_whitespace	MF:0000020	IAO:0000115	A mental process is a bodily process that is of a type such that it can of itself be conscious. Examples include thinking, feeling pain, remembering and emotion as occurrent experiences. 
-WARN	annotation_whitespace	MF:0000020	rdfs:seeAlso	<http://purl.obolibrary.org/obo/GO_0050890, cognition, defined as `The operation of the mind by which an organism becomes aware of objects of thought or perception; it includes the mental activities associated with thinking, learning, and memory.' >
 WARN	annotation_whitespace	MF:0000033	IAO:0000115	A mental disposition is a bodily disposition that is realized in a mental process. 
 WARN	annotation_whitespace	OAE:0000002	IAO:0000115	medical intervention is a planned process that has the goal of diagnosing, preventing or relieving illness or injury. 
 WARN	annotation_whitespace	OAE:0000002	IAO:0000116	"<The act of intervening, interfering or interceding with the intent of modifying the outcome. In medicine, an intervention is usually undertaken to help treat or cure a condition. For example, \""Acupuncture as a therapeutic intervention is widely practiced in the United States,\"" Reference:http://www.medterms.com/script/main/art.asp?articlekey=34214 . Some interventions can be used for diagnosis. >"
@@ -264,42 +172,44 @@ WARN	annotation_whitespace	OBI:0000070	IAO:0000116	<12/3/12: BP: the reference t
 WARN	annotation_whitespace	OBI:0000968	IAO:0000116	"<2012-12-17 JAO: In common lab usage, there is a distinction made between devices and reagents that is difficult to model. Therefore we have chosen to specifically exclude reagents from the definition of \""device\"", and are enumerating the types of roles that a reagent can perform.2013-6-5 MHB: The following clarifications are outcomes of the May 2013 Philly Workshop. Reagents are distinguished from devices that also participate in scientific techniques by the fact that reagents are chemical or biological in nature and necessarily participate in some chemical interaction or reaction during the realization of their experimental role. By contrast, devices do not participate in such chemical reactions/interactions. Note that there are cases where devices use reagent components during their operation, where the reagent-device distinction is less clear. For example:(1) An HPLC machine is considered a device, but has a column that holds a stationary phase resin as an operational component. This resin qualifies as a device if it participates purely in size exclusion, but bears a reagent role that is realized in the running of a column if it interacts electrostatically or chemically with the evaluant. The container the resin is in (“the column”) considered alone is a device. So the entire column as well as the entire HPLC machine are devices that have a reagent as an operating part.(2) A pH meter is a device, but its electrode component bears a reagent role in virtue of its interacting directly with the evaluant in execution of an assay.(3) A gel running box is a device that has a metallic lead as a component that participates in a chemical reaction with the running buffer when a charge is passed through it. This metallic lead is considered to have a reagent role as a component of this device realized in the running of a gel.In the examples above, a reagent is an operational component of a device, but the device itself does not realize a reagent role (as bearing a reagent role is not transitive across the part_of relation). In this way, the asserted disjointness between a reagent and device holds, as both roles are never realized in the same bearer during execution of an assay. >"
 WARN	annotation_whitespace	OGMS:0000096	IAO:0000232	<creation date: 2011-02-21T09:57:44Zeditor date: 2017-04-18>
 WARN	annotation_whitespace	OGMS:0000102	IAO:0000119	<http://groups.google.com/group/ogms-discuss/browse_thread/thread/ca0ad373f27774c5OGMS call adoption- 16 SEPT 2015https://docs.google.com/document/d/1iiV1-fTS7BUUSzDw3N_Afx42698YWf54-FOTY2NkAxo/edit>
-WARN	annotation_whitespace	OMIABIS:0001008	rdfs:comment	<It is argued that Comorbidity occurs due to a disposition established by a prior infection with a pathogenic organism of a different kind.^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
-WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	<sylvan seizures^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	annotation_whitespace	OMIABIS:0001008	rdfs:comment	"It is argued that Comorbidity occurs due to a disposition established by a prior infection with a pathogenic organism of a different kind.
+"
+WARN	annotation_whitespace	oboInOwl:hasExactSynonym	IAO:0000115	An alternative label for a given entity such as a commonly used abbreviation or synonym. 
+WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	sylvan seizures
 WARN	duplicate_exact_synonym	MONDO:0007295	oboInOwl:hasExactSynonym	sylvan seizures
 WARN	duplicate_exact_synonym	NCBITaxon:6231	oboInOwl:hasExactSynonym	roundworm
 WARN	duplicate_exact_synonym	NCBITaxon:6239	oboInOwl:hasExactSynonym	roundworm
-WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	<rolandic epilepsy^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	rolandic epilepsy
 WARN	duplicate_exact_synonym	MONDO:0007295	oboInOwl:hasExactSynonym	rolandic epilepsy
-WARN	duplicate_exact_synonym	DOID:2234	oboInOwl:hasExactSynonym	<partial epilepsy^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:2234	oboInOwl:hasExactSynonym	partial epilepsy
 WARN	duplicate_exact_synonym	MONDO:0005384	oboInOwl:hasExactSynonym	partial epilepsy
-WARN	duplicate_exact_synonym	DOID:14566	oboInOwl:hasExactSynonym	<neoplasm^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:14566	oboInOwl:hasExactSynonym	neoplasm
 WARN	duplicate_exact_synonym	MONDO:0005070	oboInOwl:hasExactSynonym	neoplasm
 WARN	duplicate_exact_synonym	NCIT:C16866	oboInOwl:hasExactSynonym	Model System
 WARN	duplicate_exact_synonym	NCIT:C80519	oboInOwl:hasExactSynonym	Model System
 WARN	duplicate_exact_synonym	NCIT:C16866	oboInOwl:hasExactSynonym	Model
 WARN	duplicate_exact_synonym	NCIT:C80519	oboInOwl:hasExactSynonym	Model
-WARN	duplicate_exact_synonym	DOID:2468	oboInOwl:hasExactSynonym	<mental or behavioural disorder^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:2468	oboInOwl:hasExactSynonym	mental or behavioural disorder
 WARN	duplicate_exact_synonym	MONDO:0005084	oboInOwl:hasExactSynonym	mental or behavioural disorder
-WARN	duplicate_exact_synonym	DOID:2234	oboInOwl:hasExactSynonym	<localisation-related epilepsy^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:2234	oboInOwl:hasExactSynonym	localisation-related epilepsy
 WARN	duplicate_exact_synonym	MONDO:0005384	oboInOwl:hasExactSynonym	localisation-related epilepsy
-WARN	duplicate_exact_synonym	DOID:655	oboInOwl:hasExactSynonym	<inborn metabolism disorder^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:655	oboInOwl:hasExactSynonym	inborn metabolism disorder
 WARN	duplicate_exact_synonym	MONDO:0019052	oboInOwl:hasExactSynonym	inborn metabolism disorder
-WARN	duplicate_exact_synonym	DOID:936	oboInOwl:hasExactSynonym	<encephalopathy^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:936	oboInOwl:hasExactSynonym	encephalopathy
 WARN	duplicate_exact_synonym	NCIT:C26920	oboInOwl:hasExactSynonym	encephalopathy
 WARN	duplicate_exact_synonym	MONDO:0016686	oboInOwl:hasExactSynonym	diffuse astrocytoma
 WARN	duplicate_exact_synonym	MONDO:0016688	oboInOwl:hasExactSynonym	diffuse astrocytoma
 WARN	duplicate_exact_synonym	NCIT:C17204	oboInOwl:hasExactSynonym	CT
 WARN	duplicate_exact_synonym	NCIT:C64345	oboInOwl:hasExactSynonym	CT
-WARN	duplicate_exact_synonym	DOID:6713	oboInOwl:hasExactSynonym	<cerebrovascular accident^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:6713	oboInOwl:hasExactSynonym	cerebrovascular accident
 WARN	duplicate_exact_synonym	SYMP:0000734	oboInOwl:hasExactSynonym	cerebrovascular accident
-WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	<benign Rolandic epilepsy^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	benign Rolandic epilepsy
 WARN	duplicate_exact_synonym	MONDO:0007295	oboInOwl:hasExactSynonym	benign Rolandic epilepsy
-WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	<benign childhood epilepsy with centrotemporal spike^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	benign childhood epilepsy with centrotemporal spike
 WARN	duplicate_exact_synonym	MONDO:0007295	oboInOwl:hasExactSynonym	benign childhood epilepsy with centrotemporal spike
 WARN	duplicate_exact_synonym	GO:0007610	oboInOwl:hasExactSynonym	behaviour
 WARN	duplicate_exact_synonym	NBO:0000313	oboInOwl:hasExactSynonym	behaviour
-WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	<BCECTS^^http://www.w3.org/1999/02/22-rdf-syntax-ns#langString>
+WARN	duplicate_exact_synonym	DOID:3329	oboInOwl:hasExactSynonym	BCECTS
 WARN	duplicate_exact_synonym	MONDO:0007295	oboInOwl:hasExactSynonym	BCECTS
 WARN	duplicate_exact_synonym	MP:0004085	oboInOwl:hasExactSynonym	abnormal heart beat
 WARN	duplicate_exact_synonym	SYMP:0000287	oboInOwl:hasExactSynonym	abnormal heart beat
@@ -404,6 +314,7 @@ WARN	duplicate_label_synonym	NCIT:C107543	oboInOwl:hasExactSynonym	Treatment Sat
 WARN	duplicate_label_synonym	NCIT:C112286	oboInOwl:hasExactSynonym	Ghrelin Measurement
 WARN	duplicate_label_synonym	NCIT:C113191	oboInOwl:hasExactSynonym	Have Feeling of Fullness or Heaviness in Stomach Area
 WARN	duplicate_label_synonym	NCIT:C114781	oboInOwl:hasExactSynonym	Dialysis Disequilibrium Syndrome
+WARN	duplicate_label_synonym	NCIT:C116454	oboInOwl:hasExactSynonym	Functional Connectivity Magnetic Resonance Imaging
 WARN	duplicate_label_synonym	NCIT:C116487	oboInOwl:hasExactSynonym	Diffusion Kurtosis Imaging
 WARN	duplicate_label_synonym	NCIT:C116585	oboInOwl:hasExactSynonym	Subdural Hematoma
 WARN	duplicate_label_synonym	NCIT:C116664	oboInOwl:hasExactSynonym	Electrocorticography
@@ -441,6 +352,7 @@ WARN	duplicate_label_synonym	NCIT:C16811	oboInOwl:hasExactSynonym	Magnetoencepha
 WARN	duplicate_label_synonym	NCIT:C16866	oboInOwl:hasExactSynonym	Model
 WARN	duplicate_label_synonym	NCIT:C17103	oboInOwl:hasExactSynonym	Risk Factor
 WARN	duplicate_label_synonym	NCIT:C17204	oboInOwl:hasExactSynonym	Computed Tomography
+WARN	duplicate_label_synonym	NCIT:C17429	oboInOwl:hasExactSynonym	Neural Network
 WARN	duplicate_label_synonym	NCIT:C17456	oboInOwl:hasExactSynonym	Experimental Model
 WARN	duplicate_label_synonym	NCIT:C17883	oboInOwl:hasExactSynonym	Palliative Surgery
 WARN	duplicate_label_synonym	NCIT:C18020	oboInOwl:hasExactSynonym	Diagnostic Procedure
@@ -470,12 +382,14 @@ WARN	duplicate_label_synonym	NCIT:C38047	oboInOwl:hasExactSynonym	Curative Surge
 WARN	duplicate_label_synonym	NCIT:C40438	oboInOwl:hasExactSynonym	Beck Depression Inventory
 WARN	duplicate_label_synonym	NCIT:C41328	oboInOwl:hasExactSynonym	Electrocardiographic Finding
 WARN	duplicate_label_synonym	NCIT:C45234	oboInOwl:hasExactSynonym	Wound Infection
+WARN	duplicate_label_synonym	NCIT:C49936	oboInOwl:hasExactSynonym	Electrode Device
 WARN	duplicate_label_synonym	NCIT:C50429	oboInOwl:hasExactSynonym	Missed Dose
 WARN	duplicate_label_synonym	NCIT:C50465	oboInOwl:hasExactSynonym	Asphyxia
 WARN	duplicate_label_synonym	NCIT:C50531	oboInOwl:hasExactSynonym	Dialysis Encephalopathy
 WARN	duplicate_label_synonym	NCIT:C50558	oboInOwl:hasExactSynonym	Fall
 WARN	duplicate_label_synonym	NCIT:C50697	oboInOwl:hasExactSynonym	Phosphene Visualization
 WARN	duplicate_label_synonym	NCIT:C50726	oboInOwl:hasExactSynonym	Regurgitation
+WARN	duplicate_label_synonym	NCIT:C61377	oboInOwl:hasExactSynonym	Network
 WARN	duplicate_label_synonym	NCIT:C63479	oboInOwl:hasExactSynonym	Gene Expression Analysis
 WARN	duplicate_label_synonym	NCIT:C64345	oboInOwl:hasExactSynonym	Cognitive Behavior Therapy
 WARN	duplicate_label_synonym	NCIT:C64862	oboInOwl:hasExactSynonym	Diffusion Tensor Imaging
@@ -501,6 +415,7 @@ WARN	duplicate_label_synonym	NCIT:C87089	oboInOwl:hasExactSynonym	Irregular Resp
 WARN	duplicate_label_synonym	NCIT:C91105	oboInOwl:hasExactSynonym	Clinical or Research Assessment Questionnaire
 WARN	duplicate_label_synonym	NCIT:C93013	oboInOwl:hasExactSynonym	3 Tesla Magnetic Resonance Imaging
 WARN	duplicate_label_synonym	NCIT:C94198	oboInOwl:hasExactSynonym	Cardiac Pacemaker
+WARN	duplicate_label_synonym	NCIT:C9487	oboInOwl:hasExactSynonym	Intractable Epilepsy
 WARN	duplicate_label_synonym	NCIT:C9505	oboInOwl:hasExactSynonym	Dysembryoplastic Neuroepithelial Tumor
 WARN	duplicate_label_synonym	NCIT:C98909	oboInOwl:hasExactSynonym	Cyanotic Attacks in Children
 WARN	duplicate_label_synonym	NCIT:C99020	oboInOwl:hasExactSynonym	Porencephalic Cyst
@@ -517,6 +432,8 @@ WARN	duplicate_label_synonym	NCIT:P325	oboInOwl:hasExactSynonym	ALT_DEFINITION
 WARN	duplicate_label_synonym	NCIT:P333	oboInOwl:hasExactSynonym	Use_For
 WARN	duplicate_label_synonym	NCIT:P334	oboInOwl:hasExactSynonym	ICD-O-3_Code
 WARN	duplicate_label_synonym	NCIT:P363	oboInOwl:hasExactSynonym	Neoplastic_Status
+WARN	duplicate_label_synonym	NCIT:P366	oboInOwl:hasExactSynonym	Legacy Concept Name
+WARN	duplicate_label_synonym	NCIT:P366	oboInOwl:hasExactSynonym	Legacy_Concept_Name
 WARN	duplicate_label_synonym	NCIT:P371	oboInOwl:hasExactSynonym	NICHD_Hierarchy_Term
 WARN	duplicate_label_synonym	NCIT:P372	oboInOwl:hasExactSynonym	Publish_Value_Set
 WARN	duplicate_label_synonym	NCIT:P375	oboInOwl:hasExactSynonym	Maps_To
@@ -665,7 +582,6 @@ WARN	missing_definition	HP:0011276	IAO:0000115
 WARN	missing_definition	HP:0011458	IAO:0000115	
 WARN	missing_definition	HP:0011799	IAO:0000115	
 WARN	missing_definition	HP:0012668	IAO:0000115	
-WARN	missing_definition	HP:0020219	IAO:0000115	
 WARN	missing_definition	HP:0025015	IAO:0000115	
 WARN	missing_definition	HP:0025031	IAO:0000115	
 WARN	missing_definition	HP:0025615	IAO:0000115	
@@ -732,18 +648,13 @@ WARN	missing_definition	NCBITaxon:9443	IAO:0000115
 WARN	missing_definition	NCBITaxon:9544	IAO:0000115	
 WARN	missing_definition	NCBITaxon:9606	IAO:0000115	
 WARN	missing_definition	NCBITaxon:9989	IAO:0000115	
-WARN	missing_definition	NCIT:C116454	IAO:0000115	
 WARN	missing_definition	NCIT:C157609	IAO:0000115	
-WARN	missing_definition	NCIT:C17429	IAO:0000115	
 WARN	missing_definition	NCIT:C17456	IAO:0000115	
 WARN	missing_definition	NCIT:C19146	IAO:0000115	
 WARN	missing_definition	NCIT:C19148	IAO:0000115	
-WARN	missing_definition	NCIT:C49936	IAO:0000115	
-WARN	missing_definition	NCIT:C61377	IAO:0000115	
 WARN	missing_definition	NCIT:C63479	IAO:0000115	
 WARN	missing_definition	NCIT:C65017	IAO:0000115	
 WARN	missing_definition	NCIT:C94198	IAO:0000115	
-WARN	missing_definition	NCIT:C9487	IAO:0000115	
 WARN	missing_definition	OAE:0004334	IAO:0000115	
 WARN	missing_definition	OGMS:0000032	IAO:0000115	
 WARN	missing_definition	OMIT:0001932	IAO:0000115	
@@ -838,85 +749,13 @@ WARN	missing_definition	obo:UBPROP_0000202	IAO:0000115
 WARN	missing_definition	obo:mondo#excluded_subClassOf	IAO:0000115	
 WARN	missing_definition	dc11:contributor	IAO:0000115	
 WARN	missing_definition	dc11:creator	IAO:0000115	
-WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0004346	IAO:0000115	
-WARN	missing_definition	http://www.ebi.ac.uk/efo/EFO_0005210	IAO:0000115	
 WARN	missing_definition	oboInOwl:created_by	IAO:0000115	
 WARN	missing_definition	oboInOwl:creation_date	IAO:0000115	
 WARN	missing_definition	oboInOwl:hasAlternativeId	IAO:0000115	
 WARN	missing_definition	oboInOwl:hasBroadSynonym	IAO:0000115	
-WARN	missing_definition	oboInOwl:hasDbXref	IAO:0000115	
 WARN	missing_definition	oboInOwl:hasNarrowSynonym	IAO:0000115	
-WARN	missing_definition	oboInOwl:hasOBONamespace	IAO:0000115	
 WARN	missing_definition	oboInOwl:hasRelatedSynonym	IAO:0000115	
-WARN	missing_definition	oboInOwl:id	IAO:0000115	
 WARN	missing_definition	oboInOwl:shorthand	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#HasPolarity	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAge	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAmplitude	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasAnatomy	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDemographic	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDevelopmentalHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDistribution	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasDuration	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEEGProperty	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEEGResult	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasEpidemiology	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasFamilyHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasForm	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasFrequency	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasGene	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasIctalRelationship	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasLaboratoryFinding	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasLocation	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasMedicalHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasObserver	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOccurrence	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOnset	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasOrientation	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasPhysicalExam	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasQuantity	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasRhythm	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSeizureProperty	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSex	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSign	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSocialHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSocioDemographic	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSurgicalHistory	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasSymptom	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#hasTestResult	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAgeOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAmplitudeOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isAnatomyOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDemographicOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDevelopmentalHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDistributionOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isDurationOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isEEGPropertyOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isEEGResultOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFamilyHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFormOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isFrequencyOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isIctalRelationshipOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isLocationOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isMedicalHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOccurrenceOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOnsetOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isOrientationOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isPhysicalExamOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isPolarityOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isQuantityOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isRhythmOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSeizurePropertyOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSexOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSignOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSocialHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSocioDemographicOF	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSurgicalHistoryOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isSymptomOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isTestResultOf	IAO:0000115	
-WARN	missing_definition	http://www.semanticweb.org/rjyy/ontologies/2015/5/Anatomy#isaLaboratoryFindingOf	IAO:0000115	
 WARN	missing_definition	foaf:depicted_by	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000400	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000401	IAO:0000115	
@@ -924,7 +763,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000402	IAO:0000
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000403	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000404	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000405	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000406	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000407	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000408	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000409	IAO:0000115	
@@ -956,9 +794,7 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000513	IAO:0000
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000514	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000515	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/0000516	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/78410c86_1712_44d7_afa8_13069d737e15	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/c2a4206e_62d4_4989_a268_e65941c4f9f1	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#1.5_Tesla_magnetic_resonance_imaging	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#14Hz_and_6Hz_positive_spike	IAO:0000115	
@@ -974,7 +810,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#C57BL/1
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#El_mouse	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#GABA-B_receptor_antibody	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#GAD65_antibody	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#HasPolarity	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#International_League_Against_Epilepsy_classification	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#K_complex	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#N-methyl-DL-aspartate_model	IAO:0000115	
@@ -1002,7 +837,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#anterio
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#anterior_temporal_epilepsy	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#anteromesial_temporal_lobectomy	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#artifact_obscured_EEG	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#associatedWith	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#asymmetry_pattern	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#audiogenic_model	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#auditory_illusion	IAO:0000115	
@@ -1159,40 +993,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#general
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#genetic_etiology	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#genital_automatism	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#gustatory_illusion	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAge	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAmplitude	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasAnatomy	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDemographic	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDevelopmentalHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDistribution	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasDuration	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEEGProperty	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEEGResult	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasEpidemiology	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasFamilyHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasForm	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasFrequency	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasGene	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasIctalRelationship	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasLaboratoryFinding	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasLocation	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasMedicalHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasObserver	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOccurrence	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOnset	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasOrientation	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasPhysicalExam	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasQuantity	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasRhythm	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSeizureProperty	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSex	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSign	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSocialHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSocioDemographic	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSurgicalHistory	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasSymptom	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hasTestResult	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#heautoscopy	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#high_potassium_slice_model	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#hippocampal_epilepsy	IAO:0000115	
@@ -1229,39 +1029,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#intermi
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#intracranial_infection	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#invasive_preoperative_exploration	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#invasive_subdural_grid_monitoring	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAGeneOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAgeOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAmplitudeOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isAnatomyOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDemographicOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDevelopmentalHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDistributionOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isDurationOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isEEGPropertyOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isEEGResultOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFamilyHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFormOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isFrequencyOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isIctalRelationshipOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isLocationOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isMedicalHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOccurrenceOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOnsetOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isOrientationOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isPhysicalExamOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isPolarityOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isQuantityOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isRhythmOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSeizurePropertyOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSexOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSignOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSocialHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSocioDemographicOF	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSurgicalHistoryOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isSymptomOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isTestResultOf	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#isaLaboratoryFindingOf	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#jitteriness	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#kainic_acid-induced_seizure	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#kainic_acid_model	IAO:0000115	
@@ -1387,7 +1154,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#quality
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#rapid_eye_movement_atonia	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#rarely_repeated_seizure_(oligo-epilepsy)	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#reading_epilepsy	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#refersTo	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#responsive_neurostimulation	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#rhythmic_benign_variant	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#rhythmic_temporal_theta_of_drowsiness	IAO:0000115	
@@ -1404,7 +1170,6 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#scenery
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#screeching	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#second_line_immunotherapy	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#secondary_sensory_area_(parietal_upper_bank_of_the_sylvian_fissure)_seizure	IAO:0000115	
-WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#seeAlso	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#seizure_arising_inferior_to_the_calcarine_fissure	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#seizure_arising_superior_to_the_calcarine_fissure	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#seizure_associated_with_human_immunodeficiency_virus_infection	IAO:0000115	
@@ -1484,6 +1249,8 @@ WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#voltage
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#wicket_wave	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#worthiness	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy#zinc_model	IAO:0000115	
+WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy/brain_connectivity_TM_BIN	IAO:0000115	
+WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsy/epilepsy_classification_TM_BIN	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/epilepsyZung_self-rating_anxiety_scale	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/mental_disorder#cognitive_symptom	IAO:0000115	
 WARN	missing_definition	https://bio.scai.fraunhofer.de/ontology/ontologies/2019/0/Merged1#LA_Left_arm_inner_wrist	IAO:0000115	
@@ -1627,7 +1394,34 @@ WARN	duplicate_scoped_synonym	UBERON:0013573	oboInOwl:hasBroadSynonym	B09-40
 WARN	duplicate_scoped_synonym	UBERON:0013573	oboInOwl:hasExactSynonym	B09-40
 WARN	duplicate_scoped_synonym	UBERON:0034752	oboInOwl:hasExactSynonym	second auditory area
 WARN	duplicate_scoped_synonym	UBERON:0034752	oboInOwl:hasRelatedSynonym	second auditory area
+INFO	lowercase_definition	BFO:0000004	IAO:0000115	<b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])>
+INFO	lowercase_definition	BFO:0000015	IAO:0000115	<p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])>
+INFO	lowercase_definition	BFO:0000016	IAO:0000600	<b is a disposition means: b is a realizable entity & b’s bearer is some material entity & b is such that if it ceases to exist, then its bearer is physically changed, & b’s realization occurs when and because this bearer is in some special physical circumstances, & this realization occurs in virtue of the bearer’s physical make-up. (axiom label in BFO2 Reference: [062-002])>
+INFO	lowercase_definition	BFO:0000019	IAO:0000600	<a quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized. (axiom label in BFO2 Reference: [055-001])>
+INFO	lowercase_definition	BFO:0000020	IAO:0000115	<b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])>
+INFO	lowercase_definition	BFO:0000023	IAO:0000600	<b is a role means: b is a realizable entity & b exists because there is some single bearer that is in some special physical, social, or institutional set of circumstances in which this bearer does not have to be& b is not such that, if it ceases to exist, then the physical make-up of the bearer is thereby changed. (axiom label in BFO2 Reference: [061-001])>
+INFO	lowercase_definition	BFO:0000024	IAO:0000600	<b is a fiat object part = Def. b is a material entity which is such that for all times t, if b exists at t then there is some object c such that b proper continuant_part of c at t and c is demarcated from the remainder of c by a two-dimensional continuant fiat boundary. (axiom label in BFO2 Reference: [027-004])>
+INFO	lowercase_definition	BFO:0000027	IAO:0000600	<b is an object aggregate means: b is a material entity consisting exactly of a plurality of objects as member_parts at all times at which b exists. (axiom label in BFO2 Reference: [025-004])>
+INFO	lowercase_definition	BFO:0000029	IAO:0000600	<b is a site means: b is a three-dimensional immaterial entity that is (partially or wholly) bounded by a material entity or it is a three-dimensional immaterial part thereof. (axiom label in BFO2 Reference: [034-002])>
+INFO	lowercase_definition	BFO:0000030	IAO:0000600	<b is an object means: b is a material entity which manifests causal unity of one or other of the types CUn listed above & is of a type (a material universal) instances of which are maximal relative to this criterion of causal unity. (axiom label in BFO2 Reference: [024-001])>
+INFO	lowercase_definition	BFO:0000031	IAO:0000115	<b is a generically dependent continuant = Def. b is a continuant that g-depends_on one or more other entities. (axiom label in BFO2 Reference: [074-001])>
+INFO	lowercase_definition	BFO:0000035	IAO:0000115	<p is a process boundary =Def. p is a temporal part of a process & p has no proper temporal parts. (axiom label in BFO2 Reference: [084-001])>
+INFO	lowercase_definition	BFO:0000140	IAO:0000115	<b is a continuant fiat boundary = Def. b is an immaterial entity that is of zero, one or two dimensions and does not include a spatial region as part. (axiom label in BFO2 Reference: [029-001])>
+INFO	lowercase_definition	BFO:0000142	IAO:0000600	<a one-dimensional continuant fiat boundary is a continuous fiat line whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [032-001])>
+INFO	lowercase_definition	BFO:0000144	IAO:0000115	<b is a process_profile =Def. there is some process c such that b process_profile_of c (axiom label in BFO2 Reference: [093-002])>
+INFO	lowercase_definition	BFO:0000144	IAO:0000600	<b process_profile_of c holds when b proper_occurrent_part_of c& there is some proper_occurrent_part d of c which has no parts in common with b & is mutually dependent on b& is such that b, c and d occupy the same temporal region (axiom label in BFO2 Reference: [094-005])>
+INFO	lowercase_definition	BFO:0000145	IAO:0000115	<b is a relational quality = Def. for some independent continuants c, d and for some time t: b quality_of c at t & b quality_of d at t. (axiom label in BFO2 Reference: [057-001])>
+INFO	lowercase_definition	BFO:0000146	IAO:0000600	<a two-dimensional continuant fiat boundary (surface) is a self-connected fiat surface whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [033-001])>
+INFO	lowercase_definition	BFO:0000147	IAO:0000600	<a zero-dimensional continuant fiat boundary is a fiat point whose location is defined in relation to some material entity. (axiom label in BFO2 Reference: [031-001])>
 INFO	lowercase_definition	EUPATH:0011795	IAO:0000115	a laboratory test that has a blood specimen as specified input
+INFO	lowercase_definition	IAO:0000027	IAO:0000115	a data item is an information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements.
+INFO	lowercase_definition	IAO:0000111	IAO:0000115	对于一类或属性的简洁的、有意义的、与人类友好的名称由本体开发商首选。 （美国英语）
+INFO	lowercase_definition	IAO:0000115	IAO:0000115	官方的定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。
+INFO	lowercase_definition	IAO:0000116	IAO:0000115	管理者注释用于其编辑器。它可能不包含在本体的出版版本中，所以它应该不包含最终用户了解本体所需的信息。
+INFO	lowercase_definition	IAO:0000117	IAO:0000115	输入文件中术语编辑者的名称。术语编辑者是有关术语的信息交汇点。术语编辑者可以是，但并不总是，定义的作者，这可能是由几个人完成
+INFO	lowercase_definition	IAO:0000119	IAO:0000115	<formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007>
+INFO	lowercase_definition	IAO:0000119	IAO:0000115	正式引用，例如在外部数据库中的标识符，用于表示/定义的属性源（S）。自由文本表示/为定义属性源（S）。实例：在2007年1月31日的作者姓名，URI，MeSH术语C04，PUBMEDID，维基uri
+INFO	lowercase_definition	IAO:0000412	IAO:0000115	外部术语/类，术语引入的本体
 INFO	lowercase_definition	MFOMD:0000101	IAO:0000115	"
 Erroneous beliefs that usually involve a misinterpretation of perceptions or experiences. (their content may include a variety of themes (e.g., persecutory, referential, somatic, religious, or grandiose).
 
@@ -1733,6 +1527,7 @@ INFO	lowercase_definition	OAE:0000934	IAO:0000115	coagulopathy AE results in the
 INFO	lowercase_definition	OAE:0001551	IAO:0000115	an adverse event that occurs in brain. 
 INFO	lowercase_definition	OAE:0002391	IAO:0000115	a brain disorder AE  that results in brain tissue, cerebrospinal fluid, and blood vessels being moved or pressed away from their usual position inside the skull.
 INFO	lowercase_definition	OAE:0002392	IAO:0000115	a brain injury AE,  injury to the brain caused by an external force, that results in a brain AE
+INFO	lowercase_definition	OBI:1110049	IAO:0000115	is a disease in which an abnormally strong inflammatory immune response is triggered against non-self entities, and the immune response has no protective effect
 INFO	lowercase_definition	OGMS:0000115	IAO:0000115	a therapeutic procedure that uses physical conditioning
 INFO	lowercase_definition	OGMS:0000123	IAO:0000115	a data item that is about a patient and is the specified output of a health care process assay or diagnostic process
 INFO	lowercase_definition	PW:0000180	IAO:0000115	mTOR signaling pathway regulates cellular processes such as translation, ribosome biogenesis, cell growth and autophagy and is regulated or responds to growth factors, energy metabolites and/or levels of nutrients.
@@ -1750,6 +1545,7 @@ INFO	lowercase_definition	UBERON:0008933	IAO:0000115	<(Chapin & Lin, 1984, rat):
 INFO	lowercase_definition	UBERON:0008934	IAO:0000115	the area of the upper bank of the lateral sulcus that is involved in somatic sensation
 INFO	lowercase_definition	UBERON:0013540	IAO:0000115	.
 INFO	lowercase_definition	UBERON:0013559	IAO:0000115	.
+INFO	lowercase_definition	http://www.ebi.ac.uk/efo/EFO_0005210	IAO:0000115	quantification of the pattern of links between distinct units within a nervous system through neuroimaging techniques such a MRI
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000400	rdfs:subClassOf	
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000402	rdfs:subClassOf	
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000404	rdfs:subClassOf	
@@ -1760,5 +1556,5 @@ INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000413	rdfs:sub
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000415	rdfs:subClassOf	
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000417	rdfs:subClassOf	
 INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/0000419	rdfs:subClassOf	
-INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/78410c86_1712_44d7_afa8_13069d737e15	rdfs:subClassOf	
-INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/c2a4206e_62d4_4989_a268_e65941c4f9f1	rdfs:subClassOf	
+INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/epilepsy/brain_connectivity_TM_BIN	rdfs:subClassOf	
+INFO	missing_superclass	https://bio.scai.fraunhofer.de/ontology/epilepsy/epilepsy_classification_TM_BIN	rdfs:subClassOf	
