@@ -22,7 +22,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ncbitaxon="http://purl.obolibrary.org/obo/ncbitaxon#">
     <owl:Ontology rdf:about="https://bio.scai.fraunhofer.de/ontology/epilepsy">
-        <owl:versionIRI rdf:resource="https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl"/>
+        <owl:versionIRI rdf:resource="https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPIO.owl"/>
         <dc:contributor>Johannes Darms (zbmed)</dc:contributor>
         <dc:contributor>Satya S. Sahoo (case.edu)</dc:contributor>
         <dc:creator>Alpha Tom Kodamullil (Fraunhofer SCAI)</dc:creator>
@@ -31,11 +31,13 @@
         <dc:creator>Shounak Baksi (Causality Biomodels)</dc:creator>
         <dc:creator>Stephan Gebel  (Fraunhofer SCAI)</dc:creator>
         <dc:creator>Sumit Madan (Fraunhofer SCAI)</dc:creator>
-        <dc:description>The Epilepsy Ontology (EPO) is an assembly of structured knowledge on various aspects of epilepsy, developed according to basic formal ontology (BFO) and Open Biological and Biomedical Ontology (OBO) Foundry principles. Entities and definitions are collected from the latest International League against Epilepsy (ILAE) classification, as well as from domain-specific ontologies such as Epilepsy Ontology (EPILONT), Epilepsy Syndrome Seizure Ontology (ESSO), Epilepsy Semiology(EPISEM) and Epilepsy and Seizure Ontology (EPSO) and scientific literature.
+        <dc:description>The Epilepsy Ontology (EPIO) is an assembly of structured knowledge on various aspects of epilepsy, developed according to basic formal ontology (BFO) and Open Biological and Biomedical Ontology (OBO) Foundry principles. Entities and definitions are collected from the latest International League against Epilepsy (ILAE) classification, as well as from domain-specific ontologies such as Epilepsy Ontology (EPILONT), Epilepsy Syndrome Seizure Ontology (ESSO), Epilepsy Semiology(EPISEM) and Epilepsy and Seizure Ontology (EPSO) and scientific literature.
 
 This ontology is intended to be used  for data management and for text mining purposes. The current release of the ontology is publicly available and is a community based effort to assemble various facets of the complex disease Epilepsy.</dc:description>
-        <dc:title>Epilepsy Ontology (EPSO)</dc:title>
+        <dc:title>Epilepsy Ontology (EPIO)</dc:title>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <rdfs:comment>EPIO by SEM-Group of Fraunhofer SCAI is licensed
+under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
         <rdfs:comment>EPSO by SEM-Group of Fraunhofer SCAI is
 licensed under CC BY 4.0. You are free to share (copy and redistribute
 the material in any medium or format) and adapt (remix, transform, and
@@ -47,8 +49,6 @@ term IRIs for individual terms), provide a link to the license, and
 indicate if any changes were made. You may do so in any reasonable
 manner, but not in any way that suggests the licensor endorses you or
 your use.</rdfs:comment>
-        <rdfs:comment>EPSO by SEM-Group of Fraunhofer SCAI is licensed
-under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).</rdfs:comment>
         <owl:versionInfo>2021-05-28</owl:versionInfo>
         <owl:versionInfo>Version Release: 1.0.0</owl:versionInfo>
     </owl:Ontology>
@@ -44381,13 +44381,13 @@ Psychiatric symptoms</owl:annotatedTarget>
         <metadata:treeView rdf:resource="http://purl.obolibrary.org/obo/snap_Disposition"/>
         <oboInOwl:hasDbXRef>https://www.ncbi.nlm.nih.gov/pubmed/25856437</oboInOwl:hasDbXRef>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/idomal.owl"/>
-        <oboInOwl:creation_date>2012-02-24T12:05:43Z</oboInOwl:creation_date>
         <obo:IAO_0000115>The disposition of a plant or its parts to be used to cure disease or relieve pain.</obo:IAO_0000115>
+        <oboInOwl:creation_date>2012-02-24T12:05:43Z</oboInOwl:creation_date>
         <oboInOwl:hasOBONamespace>idomal_namespace</oboInOwl:hasOBONamespace>
         <oboInOwl:id>IDOMAL:6000062</oboInOwl:id>
         <fromPubMed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromPubMed>
-        <oboInOwl:created_by>louis</oboInOwl:created_by>
         <skos:notation>IDOMAL:6000062</skos:notation>
+        <oboInOwl:created_by>louis</oboInOwl:created_by>
     </rdf:Description>
     <rdf:Description rdf:about="https://bio.scai.fraunhofer.de/ontology/ontologies/2019/0/Merged1#LA_Left_arm_inner_wrist">
         <rdfs:label>lead site I</rdfs:label>
