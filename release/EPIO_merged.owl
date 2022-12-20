@@ -27853,7 +27853,7 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     <!-- http://purl.obolibrary.org/obo/OMIT_0008783 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0008783">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000073"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/omit.owl"/>
         <oboInOwl:hasDbXRef>https://www.ncbi.nlm.nih.gov/pubmed/28288363</oboInOwl:hasDbXRef>
         <oboInOwl:hasDefinition>Laboratory tests used to evaluate how well the kidneys are working through examination of blood and urine.</oboInOwl:hasDefinition>
@@ -27878,7 +27878,7 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
         <oboInOwl:hasDbXRef>https://www.ncbi.nlm.nih.gov/pubmed/2871721</oboInOwl:hasDbXRef>
         <oboInOwl:hasDefinition>The repeated weak excitation of brain structures, that progressively increases sensitivity to the same stimulation. Over time, this can lower the threshold required to trigger seizures.</oboInOwl:hasDefinition>
         <oboInOwl:hasExactSynonym>Kindling</oboInOwl:hasExactSynonym>
-        <rdfs:label>Kindling, Neurologic</rdfs:label>
+        <rdfs:label>Kindling model</rdfs:label>
         <fromPubMed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fromPubMed>
     </owl:Class>
     <owl:Axiom>
@@ -27914,7 +27914,7 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     <!-- http://purl.obolibrary.org/obo/OMIT_0009194 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0009194">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000073"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OBI_0000070"/>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/omit.owl"/>
         <oboInOwl:hasDefinition>Blood tests that are used to evaluate how well a patient&apos;s liver is working and also to help diagnose liver conditions.</oboInOwl:hasDefinition>
         <rdfs:label>Liver Function Tests</rdfs:label>
@@ -28220,7 +28220,7 @@ edited date: 30 SEPT 2015</obo:IAO_0000232>
     <!-- http://purl.obolibrary.org/obo/OMIT_0027688 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0027688">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000073"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/ERO_0001312"/>
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981"/>
